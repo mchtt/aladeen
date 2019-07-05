@@ -1,0 +1,16 @@
+.Aladeen {
+  text-align: center;
+  background-image: linear-gradient(rgb(204, 203, 200), #FDFDFC) 
+}
+
+.AladeenHeader {
+  font-size: 4em;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  margin-top: 0;
+}
+
+.AladeenImage {
+  background-color: blue;
+}
